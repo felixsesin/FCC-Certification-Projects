@@ -1,4 +1,4 @@
-# Solution to 'Build An Arithmetic Formatter Project'
+# Solution to 'Build An Arithmetic Formatter Project', 08/03/2025
 
 # INSTRUCTIONS: Students in primary school often arrange arithmetic problems vertically
 # to make them easier to solve. [...] Finish the arithmetic_arranger function that receives
@@ -58,3 +58,4 @@ def arithmetic_arranger(problems, show_answers=False):
     elif not show_answers:
 
         return ('    '.join(ones)) + '\n' + ('    '.join(twos)) + '\n' + ('    '.join(threes))
+
