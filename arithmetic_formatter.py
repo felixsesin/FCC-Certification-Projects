@@ -1,6 +1,10 @@
-# Solution to 'Build An Arithmetic Formatter Project' #
+# Solution to 'Build An Arithmetic Formatter Project'
 
-# INSTRUCTIONS: Students in primary school often arrange arithmetic problems vertically to make them easier to solve. [...] Finish the arithmetic_arranger function that receives a list of strings which are arithmetic problems, and returns the problems arranged vertically and side-by-side. The function should optionally take a second argument. When the second argument is set to True, the answers should be displayed. #
+# INSTRUCTIONS: Students in primary school often arrange arithmetic problems vertically
+# to make them easier to solve. [...] Finish the arithmetic_arranger function that receives
+# a list of strings which are arithmetic problems, and returns the problems arranged vertically
+# and side-by-side. The function should optionally take a second argument. When the second
+# argument is set to True, the answers should be displayed.
 
 # MORE INFO:https://www.freecodecamp.org/learn/scientific-computing-with-python/build-an-arithmetic-formatter-project/build-an-arithmetic-formatter-project #
 
@@ -52,4 +56,5 @@ def arithmetic_arranger(problems, show_answers=False):
         return ('    '.join(ones)) + '\n' + ('    '.join(twos)) + '\n' + ('    '.join(threes)) + '\n' + ('    '.join(fours))
 
     elif not show_answers:
+
         return ('    '.join(ones)) + '\n' + ('    '.join(twos)) + '\n' + ('    '.join(threes))
