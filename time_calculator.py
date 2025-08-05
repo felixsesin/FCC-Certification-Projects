@@ -73,6 +73,3 @@ def add_time(start, duration, wkdy=None):
             return f'{int(hr)}:{mi} {em} (next day)'
         else:
             return f'{int(hr)}:{mi} {em} ({int(day)} days later)'
-
-** end of main.py **
-
