@@ -5,9 +5,9 @@
 # will contain at least 1 red ball and 2 green balls? While it would be
 # possible to calculate the probability using advanced mathematics, an easier
 # way is to write a program to perform a large number of experiments to
-# estimate an approximate probability.
-
-For this project, you will write a program to determine the approximate probability of drawing certain balls randomly from a hat.
+# estimate an approximate probability. For this project, you will write a
+# program to determine the approximate probability of drawing certain balls
+# randomly from a hat.
 
 # MORE INFO: https://www.freecodecamp.org/learn/scientific-computing-with-python/build-a-probability-calculator-project/build-a-probability-calculator-project
 
