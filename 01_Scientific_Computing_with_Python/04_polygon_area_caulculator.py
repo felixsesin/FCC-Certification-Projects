@@ -1,5 +1,8 @@
 # Solution to "Build A Polygon Area Calculator Project", 08/06/2025
 
+# Learned inheritance in object-oriented programming, parent vs. child
+# classes, super() methods, reusing and overriding methods, method creation
+
 # INSTRUCTIONS: In this project you will use object oriented programming
 # to create a Rectangle class and a Square class. The Square class should
 # be a subclass of Rectangle, and inherit its methods and attributes.
