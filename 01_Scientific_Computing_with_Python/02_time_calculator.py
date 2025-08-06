@@ -1,5 +1,8 @@
 # Solution to "Build A Time Calculator Project", 08/04/2025
 
+# Learned string slicing, f-strings, modular arithmetic, optional
+# and default function arguments
+
 # INSTRUCTIONS: Write a function named add_time that takes in
 # two required parameters and one optional parameter:
 # a start time in the 12-hour clock format (ending in AM or PM)
