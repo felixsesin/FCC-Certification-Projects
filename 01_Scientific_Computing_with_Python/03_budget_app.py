@@ -1,5 +1,8 @@
 # Solution to "Build A Budget App Project", 08/05/2025
 
+# Learned object-oriented programming, class vs. instance variables,
+# custom methods, dictionaries, string formatting
+
 # INSTRUCTIONS: Complete the Category class. It should be able to instantiate objects
 # based on different budget categories like food, clothing, and entertainment. When
 # objects are created, they are passed in the name of the category. The class should
