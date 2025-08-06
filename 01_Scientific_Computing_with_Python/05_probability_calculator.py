@@ -1,5 +1,8 @@
 # Solution to "Build a Probability Counter Project", 08/06/2025
 
+# Learned class design, external modules (random and copy), Monte-Carlo
+# simulations, dictionary counting, and experimental design in Python
+
 # INSTRUCTIONS: Suppose there is a hat containing 5 blue balls, 4 red balls,
 # and 2 green balls. What is the probability that a random draw of 4 balls
 # will contain at least 1 red ball and 2 green balls? While it would be
